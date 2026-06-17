@@ -1,5 +1,3 @@
-# contact me: @heinzz_doofenshmirtz [discord]
-
 # Ebloid-Scraper
 The abuba Tool scraped from
 eblo.id website this data:
